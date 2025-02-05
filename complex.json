@@ -1,0 +1,23 @@
+
+{
+  "employees": [
+    {
+      "name": "John",
+      "age": 30,
+      "department": {
+        "name": "HR",
+        "location": "New York"
+      },
+      "skills": ["Communication", "Teamwork"]
+    },
+    {
+      "name": "Jane",
+      "age": 25,
+      "department": {
+        "name": "Finance",
+        "location": "San Francisco"
+      },
+      "skills": ["Accounting", "Data Analysis"]
+    }
+  ]
+}
